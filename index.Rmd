@@ -1,5 +1,5 @@
 ---
-title: "Pruebas Admisión ICAI"
+title: "Examen de Cálculo, GITI + GITT, ICAI."
 output:
   slidy_presentation: 
     includes:
@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: '2023'
+date: 'Lunes 8 de Mayo de 2023'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,107 +18,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Instrucciones Generales
+### Examen de Cálculo, GITI + GITT, ICAI.
 
-<h3><div id="txt1"></div></h3>
+<h1>Instrucciones para el examen.</h1>
 
- + **Comprueba que la carpeta que hay en tu mesa coincide con tu número de solicitud y examina su contenido.**
- + Pon tu DNI o pasaporte encima de la mesa.
- + Los móviles deben estar apagados y guardados. 
- + No se puede utilizar calculadora en ninguna prueba.
- + Asegúrate de elegir la hoja de respuestas correspondiente a cada prueba.
- + Puedes utilizar cualquier parte de los cuadernillos para operaciones en sucio, *excepto en la prueba Psicotécnica* donde te facilitaremos papel.
- + Necesitarás lápiz, sacapuntas y goma de borrar.
- + No se penalizan las respuestas incorrectas en ninguna prueba.
- + Marca tus respuestas en la hoja tras cada ejercicio. **!!No esperes al final, puede que no te de tiempo a marcarlas!!**
- + Al marcar en la hoja de respuestas no aprietes demasiado (para que puedas borrar si es necesario) ni demasiado poco (que no haya errores de lectura). Usa la goma si es necesario, no uses ningún tipo de corrector.
- + Los resultados de las pruebas serán comunicados en 15 días.
+<h1><div id="txt1"></div></h1>
 
+ + Todos los dispositivos electrónicos deben estar apagados y guardados. 
+ + El examen tendrá una duración de **3 horas (hasta las 14:20)**, tanto para el examen parcial como para el examen final.
+ + No se puede utilizar calculadora.
+ + El examen debe hacerse con **bolígrafo**.
+ + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
+ + No se puede abandonar el aula durante el examen. 
 
 ---
 
-### Instrucciones Prueba Matemáticas
+### Examen de Cálculo, GITI + GITT, ICAI.
 
-<h3><div id="txt2"></div></h3>
+<h1>Instrucciones de entrega del examen.</h1>
 
- + <span style = "color:red"> DNI o pasaporte encima de la mesa.</span>
- + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
- + <span style = "color:red"> Duración: 45 minutos, de 9:00 a 9:45. </span>
- + <span style = "color:red"> Responder a 12 de las 15 preguntas (se corrigen las 12 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
- + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 12 respuestas).</span>
- + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
- + Los móviles deben estar apagados y guardados.
- + No se puede utilizar calculadora en ninguna prueba.
+<h1><div id="txt2"></div></h1>
 
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-
----
-
-### Instrucciones Prueba Física
-
-<h3><div id="txt3"></div></h3>
-
- + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
- + <span style = "color:red"> Duración: 45 minutos, de 9:50 a 10:35. </span>
- + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
- + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
- + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
- + Los móviles deben estar apagados y guardados.
- + No se puede utilizar calculadora en ninguna prueba.
-
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-
-
----
-
-### Descanso: 10:35 – 11:05
-
-<h3><div id="txt4"></div></h3>
-
- + <span style = "color:red"><b>IMPORTANTE: No te lleves cuadernillos ni hojas de respuesta, déjalos en la mesa.</b></span>
- + <span style = "color:red"> ¡¡Asegúrate de estar de vuelta en tu mesa a las 11:05!!</span>
- + <span style = "color:red"> Evita las aglomeraciones en los pasillos</span>
- + <span style = "color:red"> Procura no abandonar el edificio. </span>
-
----
-
-### Instrucciones Prueba Psicotécnica
-
-<h3><div id="txt5"></div></h3>
-
- + <span style = "color:red"><b>IMPORTANTE: No escribir en los cuadernillos. Usa los folios en blanco que se repartirán.</b></span>
- + <span style = "color:red"><b>En esta prueba hay cinco respuestas por pregunta, sólo una es válida.</b></span>
- + <span style = "color:red"> Duración: 15 minutos (11:15-11:30). </span>
- + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
- + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
- <!-- + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span> -->
- + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
- + <span style = "color:red"><b>Recuerda apagar y guardar el móvil.</b></span>
- + No se puede utilizar calculadora en ninguna prueba.
-
----
-
-### Instrucciones Prueba Inglés
-
-<h3><div id="txt6"></div></h3>
-
- + <span style = "color:red"> Duración: 25 minutos (11:35-12:00). </span>
- + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
- + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
- + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
+ + Una vez finalizado el examen dispondrás de 15  minutos para <span style = "color:black"> **escanear con el móvil en un único documento pdf el desarrollo del examen y la Hoja Resumen (pero no los enunciados).**</span>
+ + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
+ + <span style = "color:black"> Si haces el **examen parcial**, debes subirlo a la **tarea de Moodle: Entrega 2º EXAMEN  PARCIAL de Cálculo - 8 de mayo de 2023** (busca *Entrega de tareas* en la columna de la izquierda).</span>
+ + <span style = "color:black"> Si haces el examen **final**, debes subirlo a la **tarea de Moodle: Entrega EXAMEN FINAL de Cálculo - 8 de mayo de 2023**, (busca *Entrega de tareas* en la columna de la izquierda).</span>
+ + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
+ + Antes de abandonar el aula **entrega el examen en papel** al profesor **pero no el enunciado ni la Hoja Resumen**.
  
-
----
-
-### Final de las Pruebas 12:00
-
-<h3><div id="txt7"></div></h3>
-
- + Recuerda que debes salir del edificio por la misma puerta que usaste para entrar.
- + ¡Evita las aglomeraciones en la entrada!
- + Los resultados de las pruebas serán comunicados en 15 días. No llames antes, porque no podrán darte información.
+ 
+ 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
 
