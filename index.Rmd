@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI.
+### Examen de Cálculo, GITI + GITT, ICAI  (2023-05-08).
 
 <h1>Instrucciones para el examen.</h1>
 
@@ -33,9 +33,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI.
+### Examen de Cálculo, GITI + GITT, ICAI  (2023-05-08).
 
-<h1>Instrucciones de entrega del examen.</h1>
+<h1> Instrucciones de entrega del examen.</h1>
 
 <h1><div id="txt2"></div></h1>
 
