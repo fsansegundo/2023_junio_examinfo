@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <h1><div id="txt1"></div></h1>
 
  + Todos los dispositivos electrónicos deben estar apagados y guardados. 
- + El examen tendrá una duración de **3 horas (hasta las 14:20)**, tanto para el examen parcial como para el examen final.
+ + El examen tendrá una duración de **2 horas y 50 minutos (hasta las 14:20)**, tanto para el examen parcial como para el examen final.
  + No se puede utilizar calculadora.
  + El examen debe hacerse con **bolígrafo**.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
