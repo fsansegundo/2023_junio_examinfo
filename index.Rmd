@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Lunes 8 de Mayo de 2023'
+date: 'Lunes 19 de Junio de 2023'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,16 +18,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2023-05-08).
+### Examen de Cálculo, GITI + GITT, ICAI  (2023-06-19).
 
 <h1>Instrucciones para el examen.</h1>
 
 <h1><div id="txt1"></div></h1>
 
  + Todos los dispositivos electrónicos deben estar apagados y guardados. 
- + El examen tendrá una duración de **2 horas y 50 minutos (hasta las 14:20)**, tanto para el examen parcial como para el examen final.
+ + El examen tendrá una duración de **2 horas y 50 minutos (hasta las 14:20)**.
  + No se puede utilizar calculadora.
- + El examen debe hacerse con **bolígrafo**.
+ + El examen debe hacerse con bolígrafo.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
  + No se puede abandonar el aula durante el examen. 
 
@@ -39,10 +39,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1><div id="txt2"></div></h1>
 
- + Una vez finalizado el examen dispondrás de 15  minutos para <span style = "color:black"> **escanear con el móvil en un único documento pdf el desarrollo del examen y la Hoja Resumen (pero no los enunciados).**</span>
+ + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **10  minutos para escanear con el móvil en un único documento pdf el desarrollo del examen y la Hoja Resumen (pero no los enunciados).**</span>
  + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
- + <span style = "color:black"> Si haces el **examen parcial**, debes subirlo a la **tarea de Moodle: Entrega 2º EXAMEN  PARCIAL de Cálculo - 8 de mayo de 2023** (busca *Entrega de tareas* en la columna de la izquierda).</span>
- + <span style = "color:black"> Si haces el examen **final**, debes subirlo a la **tarea de Moodle: Entrega EXAMEN FINAL de Cálculo - 8 de mayo de 2023**, (busca *Entrega de tareas* en la columna de la izquierda).</span>
+ + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega EXAMEN EXTRAORDINARIO de Cálculo - 19 de junio de 2023** (busca *Entrega de tareas* en la columna de la izquierda).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
  + Antes de abandonar el aula **entrega el examen en papel** al profesor **pero no el enunciado ni la Hoja Resumen**.
  
